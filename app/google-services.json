@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823681214833",
+    "project_id": "testproject-ef0f6",
+    "storage_bucket": "testproject-ef0f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823681214833:android:7e408073960da09da3aed0",
+        "android_client_info": {
+          "package_name": "com.example.emanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-x0Dbet9YL3kc6ZanP8fHatX2sOmIN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
